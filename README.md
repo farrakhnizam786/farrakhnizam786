@@ -2,7 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h3 align="left">I am mohd farrakh nizam,a B.tech student opted specialisation in artificial intelligence and Machine learning.i am passionate for my career to grow.My passion led me to choose this new technology and this field,where i thrive on solving complex problems and building real word problems to make it solve with my projects.I love to do coding it is not just a skill for me it is a way to me to explore new technologies.I enjoy working in a team, collaborating on challenges tasks.and continuous learning to refine my ability.Every day i am seeking for opportunities to grow,and i make it a point to acquire new skills that enhance my technical and problem solving skills that enhance my abilities and capabilities.i have experience with python,HTML,CSS,C,and C++ and i am currently expanding my learning in java.Thank you.</h3>
+<h4 align="left" >I am mohd farrakh nizam,a B.tech student opted specialisation in artificial intelligence and Machine learning.i am passionate for my career to grow.My passion led me to choose this new technology and this field,where i thrive on solving complex problems and building real word problems to make it solve with my projects.I love to do coding it is not just a skill for me it is a way to me to explore new technologies.I enjoy working in a team, collaborating on challenges tasks.and continuous learning to refine my ability.Every day i am seeking for opportunities to grow,and i make it a point to acquire new skills that enhance my technical and problem solving skills that enhance my abilities and capabilities.i have experience with python,HTML,CSS,C,and C++ and i am currently expanding my learning in java.Thank you.</h3>
+
+<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Msrestro**
 
