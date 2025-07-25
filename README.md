@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://drive.google.com/file/d/1C_sZtl0r9Gl4pUwMbeqe9LwJDf2DyZdM/view?usp=sharing)">
+
 
 <h1 align="center">Hi 👋,Everyone I'm Mohd Farrakh Nizam</h1>
 
