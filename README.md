@@ -1,4 +1,4 @@
-![logo](https://github.com/farrakhnizam786/farrakhnizam786/blob/main/MOHD%20FARRAKH%20NIZAM%20(2).jpg)
+![logo](https://github.com/farrakhnizam786/farrakhnizam786/blob/main/MOHD%20FARRAKH%20NIZAM.png)
 
 <h1 align="center">Hi 👋,Everyone I'm Mohd Farrakh Nizam</h1>
 
